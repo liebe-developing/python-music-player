@@ -1,0 +1,1 @@
+Music player is a university project written in python. Tkinter for Graphical User Interface (GUI), and pygame which is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries designed to be used with the Python programming language.
